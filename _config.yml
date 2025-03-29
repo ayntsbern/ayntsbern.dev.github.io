@@ -12,7 +12,7 @@ rss: RSS
 ### Build settings
 
 url: https://michaelcurrin.github.io
-baseurl: /jekyll-blog-demo
+baseurl: # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 
 permalink: pretty
 
